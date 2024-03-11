@@ -1,0 +1,2 @@
+Dies ist eine Ausprobier-Datei in dem GitHub-Ordner 'wosit'. Erstellt lokal mit nano innerhalb Codium.
+Der Pfad ist noch unklar.
