@@ -1,2 +1,8 @@
+11.3.2024
+
 Dies ist eine Ausprobier-Datei in dem GitHub-Ordner 'wosit'. Erstellt lokal mit nano innerhalb Codium.
 Der Pfad ist noch unklar.
+
+12.3.2024
+
+Diese Datei hier auf HP in Ubuntu fortgeschrieben und am Textbeginn noch das gestrige Datum eingefügt.
