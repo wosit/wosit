@@ -1,13 +1,27 @@
+
 11.3.2024
 
-Dies ist eine Ausprobier-Datei in dem GitHub-Ordner 'wosit'. Erstellt lokal mit nano innerhalb Codium.
-Der Pfad ist noch unklar.
+Dies ist eine Ausprobier-Datei in dem GitHub-Ordner 'wosit'. Erstellt lokal mit nano 
+innerhalb Codium. Der Pfad ist noch unklar.
 
 12.3.2024
 
-Diese Datei hier auf HP in Ubuntu fortgeschrieben und am Textbeginn noch das gestrige Datum eingefügt.
+Diese Datei hier auf HP in Ubuntu fortgeschrieben und am Textbeginn noch das gestrige 
+Datum eingefügt.
 
 
-14.3.2024
+14.3.2024 a)
 
 Diese test.txt auf HP in Git / portable hiermit fortgeschrieben.
+
+
+14.3.2024 b) 
+
+Nun ein weiterer Eintrag in test.txt, diesmal wird Git / portable von einem Stick aus 
+genutzt. Hierbei gab es jedoch Probleme betr. des Verzeichnisses. Der Pfad zu Stick und 
+Ordner hätte eingetragen werden müssen mit: 
+$ git config --global --add safe.directory D:/PortableGit/wosit
+
+Von daher nun PortableGit samt derzeitigem Inhalt (geklont / erweiterte test.txt) auf 
+C:\ verlegt.
+
